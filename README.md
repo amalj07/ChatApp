@@ -1,2 +1,2 @@
 # ChatApp
-Chat app in Node.js using socket.io
+A simple chat app in Node.js using socket.io

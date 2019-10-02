@@ -36,7 +36,7 @@ h2{
 }
 
 #output strong{
-    color: #575ed8;
+    color: #2196F3;
 }
 
 label{
@@ -59,7 +59,7 @@ input{
 }
 
 button{
-    background: #575ed8;
+    background: #f28511;
     color: #fff;
     font-size: 18px;
     border: 0;
